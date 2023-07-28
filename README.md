@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**emikobell/emikobell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on creating and hosting a **[URL shortener](https://github.com/emikobell/url-shortener)**.
+- 🌱 I’m currently learning **Java**, **Spring**, and **Docker**.
+- 📫 How to reach me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align ="center">
+    <a href="mailto:emikoelizabethbell@gmail.com">
+        <img src="https://img.shields.io/badge/Email-emikoelizabethbell@gmail.com-blue" />
+    </a>
+    <a href="https://www.linkedin.com/in/emikobell">
+        <img src="https://img.shields.io/badge/LinkedIn-emikobell-blue" />
+    </a>
+    <a href="https://emikobell.github.io">
+        <img src="https://img.shields.io/badge/Website-emikobell.github.io-blue" />
+    </a>
+</p>
