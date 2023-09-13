@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on creating and hosting a **[URL shortener](https://github.com/emikobell/url-shortener)**.
+- 🔭 I’m currently working on the **[Entrify](https://github.com/mmamezq/Entrify)**, project, a job categorizer which will use machine learning and natural language processing to categorize entry level jobs based on the LinkedIn job description.
 - 🌱 I’m currently learning **Java**, **Spring**, and **Docker**.
 
 ### Skills:
